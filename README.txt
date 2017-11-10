@@ -46,6 +46,8 @@ ________________________________________________________________
 18. Classes and Objects
 19. Absolute Basics
 20. Variables : Introduction
+21. Variable Kinds
+22. Variables : Primitive Types
 
 
 
